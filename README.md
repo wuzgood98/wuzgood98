@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Gideon Addo</h1>
 <h3 align="center">A passionate frontend developer from Ghana</h3>
+<p align="center">
+I am a motivated and passionate front-end web developer with a strong focus on user experience and interaction. I have a keen eye for detail and a knack for problem solving, which allows me to create high-quality and user-friendly websites. I am constantly keeping up to date with the latest web technologies and trends in order to provide the best possible experience for my users.</>
 
 - 🌱 I’m currently learning **React**
 
