@@ -3,8 +3,6 @@
 <p align="center">
 I am a motivated and passionate front-end web developer with a strong focus on user experience and interaction. I have a keen eye for detail and a knack for problem solving, which allows me to create high-quality and user-friendly websites. I am constantly keeping up to date with the latest web technologies and trends in order to provide the best possible experience for my users.</>
 
-- 🌱 I’m currently learning **React**
-
 - 📫 How to reach me **gideonaddoofori@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
