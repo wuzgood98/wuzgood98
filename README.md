@@ -7,7 +7,7 @@ I am a motivated and passionate front-end web developer with a strong focus on u
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/wuz_goood" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="wuz_goood" height="30" width="40" /></a>
+<a href="https://twitter.com/wuzgoodman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="wuz_goood" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
